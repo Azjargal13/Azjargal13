@@ -1,10 +1,10 @@
 ### Hello 👋
 
-It's Aza (Azjargal), I am FrontEnd engineer currently based in Tokyo, Japan :japan:.
+It's Azaa (Aza, Azjargal), I am FrontEnd engineer currently based in Tokyo, Japan :japan:.
 
 ## 🎓Education
-- Bachelors of Computer Science from University of Humanities in Ulaanbaatar, Mongolia [2011-2015]
-- Masters of Computer Science from Indian Institute of Technology Bombay (IITB) in Mumbai, India [2016-2018]
+- Bachelor of Computer Science from University of Humanities in Ulaanbaatar, Mongolia [2011-2015]
+- Master of Computer Science from Indian Institute of Technology Bombay (IITB) in Mumbai, India [2016-2018]
 
 ## 👩🏻‍💻Work experiences
 - Software Engineer @Konica Minolta,Inc [2018-2021]
