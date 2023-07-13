@@ -17,7 +17,7 @@ It's Azaa (Aza, Azjargal), I am FrontEnd engineer currently based in Tokyo, Japa
 
 ## :seedling: Growing
  - I enjoy learning new technologies, currently I am learning Vitest, and advanced Vue 3 with its ecosystem.
- - AWS Certified Solutions Architect Associate (SAA03): Cloud development really caught my eyes for about 2 years now
+ - AWS Certified Solutions Architect Associate (SAA03) 
 
 ## :books: About me
 - Curious - I feel like I want to learn so many things ranging from zoology to human mind development
