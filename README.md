@@ -1,48 +1,59 @@
-### Hello 👋
+# Hello 👋
 
-It's Azaa (Aza, Azjargal), I am FrontEnd engineer currently based in Tokyo, Japan :japan:.
+I am Azjargal Gankhuyag (Azaa), a strategic thinker, and tech-driven problem solver who helps companies and businesses grow digitally. Expansion is what I seek in my day-to-day life. 
+
+Currently based in the APAC region (Mongolia, Singapore, Indonesia, Thailand and so on...) 
+
+
+## 🚀 What I Do
+With a background in software engineering and experience living, and traveling in 15+ countries, I bring up original, diverse solutions as a powerful system for change. I founded ByteCode Digital Marketing to help sustainability-focused brands and purpose-driven startups grow with smart, data-driven strategies. Our agency is APAC's first and only remote-serving agency whose sole goal is to serve impact-driven brands.   
+
+## I believe that
+- 🌱 Sustainable brands deserve visibility—not just in rankings, but in people’s minds.
+- 📊 Marketing should be precise, not random—backed by data, AI, and strategy.
+- 🤝 Authentic connections drive real impact—it’s about trust, not just transactions.
+
+## 🏆 My Focus Areas
+- Strategic Growth & AI-Driven Marketing: Helping brands scale with AI-powered storytelling, SEO, and analytics.
+- Innovation & Framework Development: Creating decision-making models like FLOW & VISTA for sustainable growth.
+- Education & Thought Leadership: Teaching executives how to leverage AI for business and marketing strategy.
 
 ## 🎓Education
-- Bachelor of Computer Science from University of Humanities in Ulaanbaatar, Mongolia [2011-2015]
-- Master of Computer Science from Indian Institute of Technology Bombay (IITB) in Mumbai, India [2016-2018]
+- Bachelor of Computer Science from the University of Humanities in Ulaanbaatar, Mongolia
+- Master of Computer Science from the Indian Institute of Technology Bombay (IITB) in Mumbai, India
 
 ## 👩🏻‍💻Work experiences
-- Software Engineer @Konica Minolta,Inc [2018-2021]
-- Frontend Engineer @Virtusize K.K [2021-present]
+- Founder @ByteCode Digital Marketing Agency 
+- Co-Founder @ByteAcads (Edtech Startup) 
+- Founding Member & Team ops @Gertech (AI startup) 
+- Software Engineer @Konica Minolta, Inc
+- Frontend Engineer @Virtusize K.K
+- Frontend Engineer, Content Manager @BreatheMongolia NGO (volunteer)
+- Storywriter @Substack Newsletter [https://azjargal.substack.com/]
 
-## :computer: Personal projects
-- I've co-founded an Edtech startup company in Ulaanbaatar, Mongolia. More in details from [here](http://byteacads.com/)
-- I am one of the founding members of software development startup company in Tokyo, Japan. More detailed info from [here](https://www.gertech.jp/)
-- Personal blog where I share my experiences and thoughts, including tech and non-tech topics. You can check it from [here](http://azjargal.me/)
+## 🏆 Creds
+- AWS Certified Solutions Architect Associate (SAA03)
+- Google Tech Elevate Program
+- Asana (PM) Ambassador
+- Founder Institute (pre-seed accelerator) Alumni
+- Google Certified Program Manager (Coursera)
 
 ## :seedling: Growing
- - I enjoy learning new technologies, currently I am learning Vitest, and advanced Vue 3 with its ecosystem.
- - AWS Certified Solutions Architect Associate (SAA03) 
+ - The future of AI in digital marketing and business growth.
+ - Decision-making frameworks for visionary leaders.
+ - Sustainability and ethical tech in marketing.
 
 ## :books: About me
-- Curious - I feel like I want to learn so many things ranging from zoology to human mind development
-- Dedicate good amount of time reading seriously 
-- Like to share my experience with people through writing (genuily like to support and uplift others)
-- Sort of outdoor & indoor person. Love hiking, shinrin-yoku (forest bathing), sitting at library
+- Curious & Reflective & Visionary (I feel like I want to learn so many things ranging from zoology to human mind development)
+- Life-long learning quest
+- Share knowledge and write
+- outdoor & indoor person. Love hiking, shinrin-yoku (forest bathing), sitting at a library
 
-That's not all about me actually, there are more to share about :relaxed:
-Welcome to reach me out on Linkedin, personal email (can find it from my blog) 
+## ✨ Let’s Connect
+- 🚀 LinkedIn: [https://www.linkedin.com/in/azjargal-gankhuyag/]
+- 🌍 Substack Newsletter: [https://www.linkedin.com/in/azjargal-gankhuyag/]
 
-Thanks for stopping by :yellow_heart:, till then Take care! :wave: 
+
+Welcome to reach me on Linkedin. I am active there. 
 
 ~ Azaa
-
-<!--
-**Azjargal13/Azjargal13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
