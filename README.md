@@ -2,34 +2,23 @@
 
 I am Azjargal Gankhuyag (Azaa), a strategic thinker, and tech-driven problem solver who helps companies and businesses grow digitally. Expansion is what I seek in my day-to-day life. 
 
-Currently based in the APAC region (Mongolia, Singapore, Indonesia, Thailand and so on...) 
-
+## :pen: Life Updates 
+- Back to Ulaanbaatar, Mongolia as of Sept, 2025.
+- Made small circle of girl friends.
+- Joined +1000 vipassana meditation course. 
 
 ## 🚀 What I Do
-With a background in software engineering and experience living, and traveling in 15+ countries, I bring up original, diverse solutions as a powerful system for change. I founded ByteCode Digital Marketing to help sustainability-focused brands and purpose-driven startups grow with smart, data-driven strategies. Our agency is APAC's first and only remote-serving agency whose sole goal is to serve impact-driven brands.   
+With a background in software engineering and experience living, and traveling in 15+ countries, I bring up original, diverse solutions as a powerful system for change.
 
-## I believe that
-- 🌱 Sustainable brands deserve visibility—not just in rankings, but in people’s minds.
-- 📊 Marketing should be precise, not random—backed by data, AI, and strategy.
-- 🤝 Authentic connections drive real impact—it’s about trust, not just transactions.
+For more work related matter, contact me on Linkedin.
 
-## 🏆 My Focus Areas
-- Strategic Growth & AI-Driven Marketing: Helping brands scale with AI-powered storytelling, SEO, and analytics.
-- Innovation & Framework Development: Creating decision-making models like FLOW & VISTA for sustainable growth.
-- Education & Thought Leadership: Teaching executives how to leverage AI for business and marketing strategy.
+## 🐚 Trends
 
-## 🎓Education
-- Bachelor of Computer Science from the University of Humanities in Ulaanbaatar, Mongolia
-- Master of Computer Science from the Indian Institute of Technology Bombay (IITB) in Mumbai, India
+Currently I am interested in and diving deeper into:
+- MarTech
+- Cloud Architecture
+- AI (Responsible AI and Ethical AI)
 
-## 👩🏻‍💻Work experiences
-- Founder @ByteCode Digital Marketing Agency 
-- Co-Founder @ByteAcads (Edtech Startup) 
-- Founding Member & Team ops @Gertech (AI startup) 
-- Software Engineer @Konica Minolta, Inc
-- Frontend Engineer @Virtusize K.K
-- Frontend Engineer, Content Manager @BreatheMongolia NGO (volunteer)
-- Storywriter @Substack Newsletter [https://azjargal.substack.com/]
 
 ## 🏆 Creds
 - AWS Certified Solutions Architect Associate (SAA03)
@@ -37,11 +26,6 @@ With a background in software engineering and experience living, and traveling i
 - Asana (PM) Ambassador
 - Founder Institute (pre-seed accelerator) Alumni
 - Google Certified Program Manager (Coursera)
-
-## :seedling: Growing
- - The future of AI in digital marketing and business growth.
- - Decision-making frameworks for visionary leaders.
- - Sustainability and ethical tech in marketing.
 
 ## :books: About me
 - Curious & Reflective & Visionary (I feel like I want to learn so many things ranging from zoology to human mind development)
