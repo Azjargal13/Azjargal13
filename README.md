@@ -5,7 +5,7 @@ I am Azjargal Gankhuyag (Azaa), a strategic thinker, and tech-driven problem sol
 ## :pen: Life Updates 
 - Back to Ulaanbaatar, Mongolia as of Sept, 2025.
 - Made small circle of girl friends.
-- Joined +1000 vipassana meditation course. 
+- Joined +1000 hours of vipassana meditation course. 
 
 ## 🚀 What I Do
 With a background in software engineering and experience living, and traveling in 15+ countries, I bring up original, diverse solutions as a powerful system for change.
