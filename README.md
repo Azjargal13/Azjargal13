@@ -3,7 +3,7 @@
 I am Azjargal Gankhuyag (Azaa), a tech-driven problem solver who helps companies and businesses grow digitally. Before, I used to seek expansion, now I seek containment and stability. 
 
 ## Life Updates 
-- After traveling and living in 17 countries, back to Ulaanbaatar, Mongolia as of June 2026.
+- After traveling and living in 17 countries, back to Ulaanbaatar, Mongolia in Sep 2026.
 - Building [Pretty Website Creator](https://prettywebsitecreator.com/) |  an AI-first website creator for solopreneurs and freelancers.
 
 ## Portfolio projects
@@ -31,7 +31,7 @@ This RAG development on GCP Vertex AI provides a highly grounded knowledge base,
 ## Focus
 Investing heavily in:
 - Google Cloud Platform x Cloud Architecture
-- AI x Sustainability x Ethical AI development
+- AI x Sustainability x Ethical AI development x XAI
 
 Find me on [intro](http://prettywebsitecreator.com/azaa-software-engineer) page.
 ~ Azaa
