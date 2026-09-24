@@ -4,7 +4,7 @@ I am Azjargal Gankhuyag (Azaa), a tech-driven problem solver who helps companies
 
 ## Life Updates 
 - After traveling (17 countries) and living in 6, back to Ulaanbaatar, Mongolia, in Sep 2026.
-- Building [Pretty Website Creator](https://prettywebsitecreator.com/) |  an AI-first website creator for solopreneurs and freelancers.
+- Built [Pretty Website Creator](https://prettywebsitecreator.com/) |  an AI-first website creator for solopreneurs and freelancers.
 
 ## Portfolio projects
 
