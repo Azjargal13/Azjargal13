@@ -1,9 +1,9 @@
 # Hi
 
-I am Azjargal Gankhuyag (Azaa), a tech-driven problem solver who helps companies and businesses grow digitally. Before, I used to seek expansion, now I seek containment and stability. 
+I am Azjargal Gankhuyag (Azaa), a tech-driven problem solver who helps companies and businesses grow digitally. Before, I used to seek expansion; now I seek containment and stability. 
 
 ## Life Updates 
-- After traveling and living in 17 countries, back to Ulaanbaatar, Mongolia in Sep 2026.
+- After traveling (17 countries) and living in 6, back to Ulaanbaatar, Mongolia, in Sep 2026.
 - Building [Pretty Website Creator](https://prettywebsitecreator.com/) |  an AI-first website creator for solopreneurs and freelancers.
 
 ## Portfolio projects
