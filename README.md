@@ -33,5 +33,5 @@ Investing heavily in:
 - Google Cloud Platform x Cloud Architecture
 - AI x Sustainability x Ethical AI development x XAI
 
-Find me on [intro](http://prettywebsitecreator.com/azaa-software-engineer) page.
+Find me on [intro](https://azjargal13.github.io/) page.
 ~ Azaa
